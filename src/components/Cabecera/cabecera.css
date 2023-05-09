@@ -1,0 +1,19 @@
+header{
+    margin: 0;
+    background-color: #1d3557;
+    color: white;
+    padding: 10px 20px;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+}
+
+.contenedor__titulo{
+    display: flex;
+    justify-content: space-around;
+}
+.contenedor__titulo--imagen{
+    width: 10%;
+    height: 5vh;
+  }
+  

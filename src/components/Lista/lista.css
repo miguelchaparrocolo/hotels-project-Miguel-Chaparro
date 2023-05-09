@@ -1,0 +1,38 @@
+.hotels-list{  
+    background-color: white;
+    width: 70%;
+    border: 3px solid blue;
+ }
+
+ .hotels__list--button{
+    -webkit-border-radius: 4;
+    -moz-border-radius: 4;
+    border-radius: 4px;
+    text-shadow: 1px 1px 15px #666666;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 1em;
+    background: #1c50dd;
+    border: solid #000000 1px;
+    text-decoration: none;
+}
+
+.hotels__list--imagen{
+   width: 40%;
+   height: 10vh;
+}
+
+.hotels__list--button:hover{
+   background-color: rgb(21, 214, 228);
+   border: 5px blue solid ;
+   color: white;
+   font-size: 20px;
+   cursor: pointer;
+}
+
+th, td {
+  width: 25%;
+  text-align: center;
+  vertical-align: center;
+  border: 0.5px solid black;
+}

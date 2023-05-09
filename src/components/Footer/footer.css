@@ -1,0 +1,21 @@
+footer{
+    background-color: #1d3557;
+    display: flex;
+    padding: 20px 30px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.fot1{
+    width: 33.33%;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.fot2{
+    font-family: 'Lora', serif;
+    color:#fff;
+    text-shadow: 3px 3px 1px #000;
+    width: 33.33%;
+    text-align: center;
+}
